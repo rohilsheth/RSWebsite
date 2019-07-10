@@ -3,8 +3,13 @@ body {
   font-weight: 400;
   font-size: 15px;
   line-height: 1.8;
-  color: #b3b3b3;
-  background: #fff;
+  color: #cfd0d2;
+  background: #01256e;
+}
+
+particle-canvas {
+  width:100%;
+  height:100%;
 }
 
 a {
@@ -19,7 +24,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5 {
-  color: #000;
+  color: #95001a;
   font-family: "Playfair Display", times, serif;
 }
 
@@ -67,7 +72,7 @@ textarea.form-control {
 
 .btn.btn-outline-primary {
   border-width: 2px;
-  color: #F73859;
+  color: #95001a;
 }
 
 .btn.btn-outline-primary:hover, .btn.btn-outline-primary:focus, .btn.btn-outline-primary:active {
@@ -115,7 +120,7 @@ header .navbar-brand.absolute {
 }
 
 header .navbar-brand span {
-  color: #F73859;
+  color: #95001a;
 }
 
 header .navbar {
@@ -181,12 +186,12 @@ header .navbar .dropdown-menu:before {
 }
 
 header .navbar .dropdown-menu .dropdown-item:hover {
-  background: #F73859;
+  background: #95001a;
   color: #fff;
 }
 
 header .navbar .dropdown-menu .dropdown-item.active {
-  background: #F73859;
+  background: #95001a;
   color: #fff;
 }
 
@@ -196,7 +201,7 @@ header .navbar .dropdown-menu a {
 }
 
 header .navbar .cta-btn a {
-  background: #F73859;
+  background: #95001a;
   color: #000 !important;
   padding-left: 20px !important;
   padding-right: 20px !important;
@@ -238,13 +243,13 @@ body.offcanvas-open .site-wrap {
   right: 20px;
   text-transform: uppercase;
   letter-spacing: .1em;
-  font-size: 13px;
+  font-size: 18px;
   top: 20px;
-  color: #000;
+  color: #95001a;
 }
 
 .offcanvas-toggle:hover {
-  color: #000;
+  color: #95001a;
   opacity: .7;
 }
 
@@ -266,7 +271,7 @@ body.offcanvas-open .site-wrap {
   overflow: scroll;
   z-index: 100;
   width: 240px;
-  background: #283149;
+  background: #01256e;
   padding: 20px 30px;
 }
 
@@ -291,7 +296,7 @@ body.offcanvas-open .site-wrap {
 }
 
 .offcanvas_menu ul li.active a {
-  color: #F73859;
+  color: #95001a;
 }
 
 .offcanvas_menu ul.social li {
@@ -346,7 +351,7 @@ main {
 
 .home-button {
   top: 20px;
-  color: #F73859;
+  color: #95001a;
   font-size: 20px;
   position: absolute;
 }
@@ -391,7 +396,7 @@ main {
   left: 0;
   bottom: 0;
   right: 0;
-  background: #F73859;
+  background: #95001a;
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
@@ -497,7 +502,7 @@ main {
 }
 
 .site-subscribe {
-  background: #F73859;
+  background: #95001a;
   padding: 2em 0;
 }
 
@@ -660,7 +665,7 @@ main {
 
 .custom-media .icon span {
   font-size: 70px;
-  color: #F73859;
+  color: #95001a;
 }
 
 .custom-media h3 {
@@ -692,7 +697,7 @@ main {
 
 .custom-icon {
   font-size: 70px;
-  color: #F73859;
+  color: #95001a;
 }
 
 /* Owl Carousel */
@@ -982,7 +987,7 @@ main {
   position: relative;
   width: 0px;
   font-size: 30px;
-  color: #F73859;
+  color: #95001a;
 }
 
 .load-more {
@@ -995,7 +1000,7 @@ main {
 }
 
 .load-more:hover {
-  background: #F73859;
+  background: #95001a;
   color: #fff;
 }
 
@@ -1035,7 +1040,7 @@ main {
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
-  background: #F73859;
+  background: #95001a;
 }
 
 .text-black {
@@ -1064,7 +1069,7 @@ main {
 
 .media-feature .icon {
   font-size: 60px;
-  color: #F73859;
+  color: #95001a;
 }
 
 .media-feature h3 {
@@ -1079,7 +1084,7 @@ main {
   -ms-transform: scale(1.05);
   transform: scale(1.05);
   z-index: 2;
-  border-bottom: 10px solid #F73859;
+  border-bottom: 10px solid #95001a;
 }
 
 .media-custom {
@@ -1184,7 +1189,7 @@ main {
 }
 
 .site-footer a {
-  color: #F73859;
+  color: #95001a;
   border-bottom: 1px solid transparent;
 }
 
