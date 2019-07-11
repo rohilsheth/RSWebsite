@@ -349,6 +349,11 @@ main {
   position: relative;
 }
 
+main1 {
+  top: 30px;
+  position: absolute;
+}
+
 .home-button {
   top: 20px;
   color: #95001a;
